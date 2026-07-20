@@ -1,1 +1,3 @@
 subject.txt
+__pycache__/
+*.py[cod]
